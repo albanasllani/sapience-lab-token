@@ -35,8 +35,6 @@ tsconfig*.json
 # Deployment & Token Data (sensitive)
 *-deployment.json
 deployment-info.json
-token-metadata.json
-sapience-lab-deployment.json
 
 # Scripts Directory (automation tools)
 scripts/
@@ -59,7 +57,6 @@ yarn-debug.log*
 yarn-error.log*
 
 # Rust
-Cargo.lock
 **/*.rs.bk
 
 # IDL

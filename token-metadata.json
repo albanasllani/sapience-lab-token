@@ -1,0 +1,46 @@
+{
+  "name": "Sapience Token",
+  "symbol": "SAPT",
+  "description": "Official token of Sapience Lab - Advancing the frontiers of artificial intelligence and blockchain technology. Built on Solana for fast, secure, and scalable transactions.",
+  "image": "https://raw.githubusercontent.com/albanasllani/sapience-lab-token/main/logo.png",
+  "external_url": "https://www.sapienceailab.com/",
+  "attributes": [
+    {
+      "trait_type": "Total Supply",
+      "value": "1,000,000,000"
+    },
+    {
+      "trait_type": "Decimals",
+      "value": "9"
+    },
+    {
+      "trait_type": "Blockchain",
+      "value": "Solana"
+    },
+    {
+      "trait_type": "Token Type",
+      "value": "SPL Token"
+    },
+    {
+      "trait_type": "Use Case",
+      "value": "Governance & Utility"
+    },
+    {
+      "trait_type": "Category",
+      "value": "AI & Blockchain"
+    }
+  ],
+  "properties": {
+    "category": "image",
+    "creators": [
+      {
+        "address": "22N84KPb8jruJRvroqkg9hRuZ4euB7H5UZnjqG1tstJa",
+        "share": 100
+      }
+    ]
+  },
+  "collection": {
+    "name": "Sapience Lab Ecosystem",
+    "family": "Sapience Lab"
+  }
+}
