@@ -24,8 +24,6 @@ create-*.js
 setup.js
 
 # Configuration Files (sensitive)
-*.toml
-*.lock
 tsconfig*.json
 *.config.js
 *.config.ts
@@ -45,11 +43,7 @@ scripts/
 
 # Solana Program Files (compiled)
 target/
-.anchor/
-.solana/
 test-ledger/
-*.so
-programs/
 tests/
 
 # Environment variables

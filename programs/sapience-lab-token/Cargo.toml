@@ -1,0 +1,19 @@
+[package]
+name = "sapience-lab-token"
+version = "0.1.0"
+description = "Sapience Lab Token Program"
+edition = "2021"
+
+[lib]
+crate-type = ["cdylib", "lib"]
+name = "sapience_lab_token"
+
+[features]
+no-entrypoint = []
+no-idl = []
+no-log-ix-name = []
+cpi = ["no-entrypoint"]
+default = []
+
+[dependencies]
+solana-program = "~1.18.0"
